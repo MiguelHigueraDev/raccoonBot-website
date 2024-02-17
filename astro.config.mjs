@@ -24,6 +24,13 @@ export default defineConfig({
 					label: 'Commands',
 					autogenerate: { directory: 'commands'},
 				},
+				{
+					label: 'Changelog',
+					items: [
+						{ label: '0.6.0', link: '/changelog/060/' },
+						{ label: '0.5.0', link: '/changelog/050/' },
+					]
+				}
 			],
 		}),
 	],
