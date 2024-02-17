@@ -5,13 +5,13 @@ description: Commands Overview
 
 This section lists all the commands available in the current version of raccoonBot, separated by sections.
 
-### Notation
+## Notation
 
-#### Description
+### Description
 
 A short description of what the command does.
 
-#### Usage
+### Usage
 
 How to use the command, with all the available arguments. 
 
@@ -20,15 +20,21 @@ are optional (enclosed in **[one set]** of brackets).
 
 You can easily switch between arguments by using the <kbd>tab</kbd> key.
 
-#### Required Arguments
+### Cooldown
+
+Time required between multiple executions of the same command. If a command is currently in cooldown, its execution will fail.
+
+Bot will send a message notifying you of the cooldown in the future.
+
+### Required Arguments
 
 These arguments **must** be specified for the command to work.
 
-#### Optional Arguments
+### Optional Arguments
 
 These arguments *can* be specified, but aren't required for the command to work.
 
 
-#### Extra notes
+### Extra notes
 
 Extra information that's not really required to use the command, but it's nice to know.

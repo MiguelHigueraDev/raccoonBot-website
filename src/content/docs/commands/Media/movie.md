@@ -3,14 +3,18 @@ title: /movie
 description: Get information about a movie from The Movie Database.
 ---
 
-### Description
+## Description
 Get information about a movie from The Movie Database.
 Also provides a link to see where to *legally* watch it, if available.
 
-### Usage
+## Usage
 
 `/movie [[movie]]`
 
-### Required Arguments
+## Cooldown
+
+10 seconds
+
+## Required Arguments
 
 - movie: Name of the movie to search

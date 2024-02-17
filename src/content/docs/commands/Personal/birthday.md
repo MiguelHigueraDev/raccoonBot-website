@@ -3,7 +3,7 @@ title: /birthday
 description: Save your birthday so people get notified of it!
 ---
 
-### Description
+## Description
 This command lets you save your birthday so people get notified of it.
 
 **All** these conditions must be met for a birthday notification to be sent to a server:
@@ -16,16 +16,19 @@ To set your birthday use the command with the **/birthday** command, accompanied
 
 **Example: February 20th, 1980 would be 1980-02-20.**
 
-### Usage
+## Usage
 
 `/birthday [birthdate]`
 
+## Cooldown
 
-### Optional Arguments
+15 seconds
+
+## Optional Arguments
 
 - birthdate: Your birthday in yyyy-mm-dd format
 
 
-### Extra Notes
+## Extra Notes
 
 If you don't specify a date, your saved birthday will be shown (if it's already saved).

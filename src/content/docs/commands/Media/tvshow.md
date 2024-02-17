@@ -3,14 +3,18 @@ title: /tvshow
 description: Get information about a TV show from The Movie Database.
 ---
 
-### Description
+## Description
 Get information about a tv show from The Movie Database.
 Also provides a link to see where to *legally* watch it, if available.
 
-### Usage
+## Usage
 
 `/tvshow [[show]]`
 
-### Required Arguments
+## Cooldown
+
+10 seconds
+
+## Required Arguments
 
 - show: Name of the TV show to search
