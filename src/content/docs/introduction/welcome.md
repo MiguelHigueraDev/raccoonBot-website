@@ -6,7 +6,7 @@ description: Thanks for using raccoonBot!
 raccoonBot is an open-source, multi-purpose Discord bot that's in constant development. It can notify your server members of birthdays, create polls, play trivia with you, and other stuff!
 
 This is a hobby project I'm currently making
-for fun, to learn more TypeScript and back-end development in general.
+for fun, to learn more about TypeScript and back-end development in general.
 
 If you have a suggestion or you want to report a bug, you can do so by
 visiting the [GitHub repo!](https://github.com/MiguelHigueraDev/raccoonBot-ts)
