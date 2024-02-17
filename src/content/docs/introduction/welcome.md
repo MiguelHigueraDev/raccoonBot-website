@@ -20,5 +20,4 @@ If you want to invite raccoonBot to your server, [use this invite link](https://
 ## Todo
 
 - Add documentation about extensible features (modules, preferences)
-- Add Spanish translation
 

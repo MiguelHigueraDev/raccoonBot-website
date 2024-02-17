@@ -6,7 +6,7 @@ description: (SERVER ADMIN ONLY) Enable/disable server modules.
 ## Description
 **[SERVER ADMIN ONLY]** 
 
-Modules are features that the bot provides, that can be enabled or disabled on your server to your specific needs by using this command.
+Modules are features that the bot provides, that can be enabled or disabled **on your server** to your specific needs by using this command.
 
 After using the command you can browse the modules, check their current status, and toggle them by using the buttons in the UI.
 

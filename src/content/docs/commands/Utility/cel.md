@@ -10,6 +10,10 @@ Convert temperature from degrees Celsius to degrees Fahrenheit.
 
 `/cel [[celsius]]`
 
+### Cooldown
+
+3 seconds
+
 ### Required Arguments
 
 - celsius: Temperature in degrees Celsius to convert to Fahrenheit

@@ -6,7 +6,7 @@ description: (SERVER ADMIN ONLY) Change the value of a server-specific setting.
 ## Description
 **[SERVER ADMIN ONLY]** 
 
-Change the value of a server-specific setting. To see a list of settings please check [settings](/commands/administration/settings#current-settings).
+Change the value of a server-specific setting. To see a list of settings please check [/settings](/commands/administration/settings#current-settings).
 
 ## Usage
 

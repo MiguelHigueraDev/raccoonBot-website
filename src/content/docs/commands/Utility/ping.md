@@ -11,3 +11,8 @@ Latency information will be displayed as well.
 ### Usage
 
 `/ping`
+
+### Cooldown
+
+5 seconds
+
