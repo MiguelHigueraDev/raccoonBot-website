@@ -15,7 +15,7 @@ visiting the [GitHub repo!](https://github.com/MiguelHigueraDev/raccoonBot-ts)
 
 ## Invite raccoonBot to your server
 
-If you want to invite raccoonBot to your server, [click here](https://discord.com/api/oauth2/authorize?client_id=1187055317209587832&permissions=379968&scope=applications.commands+bot).
+If you want to invite raccoonBot to your server, [use this invite link](https://discord.com/api/oauth2/authorize?client_id=1187055317209587832&permissions=379968&scope=applications.commands+bot).
 
 ## Todo
 
