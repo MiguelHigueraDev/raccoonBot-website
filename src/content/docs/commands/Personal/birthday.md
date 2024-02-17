@@ -16,8 +16,6 @@ To set your birthday use the command with the **/birthday** command, accompanied
 
 **Example: February 20th, 1980 would be 1980-02-20.**
 
-If you don't specify a date, your saved birthday will be shown (if it's already saved).
-
 ### Usage
 
 `/birthday [birthdate]`
@@ -26,3 +24,8 @@ If you don't specify a date, your saved birthday will be shown (if it's already 
 ### Optional Arguments
 
 - birthdate: Your birthday in yyyy-mm-dd format
+
+
+### Extra Notes
+
+If you don't specify a date, your saved birthday will be shown (if it's already saved).

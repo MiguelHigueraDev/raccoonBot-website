@@ -15,22 +15,14 @@ export default defineConfig({
 			sidebar: [
 				{
 					label: 'Introduction',
-					autogenerate: { directory: 'introduction' },
+					items: [
+						{ label: 'Welcome', link: '/introduction/welcome/' },
+						{ label: 'FAQ', link: '/introduction/faq/' },
+					]
 				},
 				{
 					label: 'Commands',
 					autogenerate: { directory: 'commands'},
-				},
-				{
-					label: 'Guides',
-					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', link: '/guides/example/' },
-					],
-				},
-				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
 				},
 			],
 		}),
