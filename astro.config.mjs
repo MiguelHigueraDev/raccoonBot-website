@@ -14,6 +14,14 @@ export default defineConfig({
 			},
 			sidebar: [
 				{
+					label: 'Introduction',
+					autogenerate: { directory: 'introduction' },
+				},
+				{
+					label: 'Commands',
+					autogenerate: { directory: 'commands'},
+				},
+				{
 					label: 'Guides',
 					items: [
 						// Each item here is one entry in the navigation menu.
