@@ -17,7 +17,7 @@ Se puede especificar la cantidad de roles a asignar, y además si también se le
 
 ## Argumentos necesarios
 
-- players: A comma-separated list of players. Example: raccoon,bot,misfit
+- jugadores: Una lista de jugadores separados por comas. Ejemplo: raccoon,bot,misfit
 
 ## Argumentos opcionales
 

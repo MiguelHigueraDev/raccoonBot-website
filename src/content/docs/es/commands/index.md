@@ -15,7 +15,7 @@ Una corta descripción sobre que hace el comando.
 
 Cómo usar el comando, con todos los argumentos disponibles.
 
-Los argumentos son opciones extra que se agregan al comando, algunos siendo necesarios (marcados con [[dos corchetes]]), y algunos opcionales, (marcados con [un corchete]).
+Los argumentos son opciones extra que se agregan al comando, algunos siendo necesarios (marcados con **[[dos corchetes]]**), y algunos opcionales, (marcados con **[un corchete]**).
 
 Puedes fácilmente cambiar entre argumentos cuando escribas el comando al utilizar la tecla <kbd>tab</kbd>.
 
