@@ -59,6 +59,7 @@ export default defineConfig({
 							translations: { es : 'Juegos'},
 							items: [
 								{ label: '/trivia', link: '/commands/games/trivia/' },
+								{ label: '/hangman', link: '/commands/games/hangman/' },
 							]
 						},
 						{
