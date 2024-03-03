@@ -12,7 +12,7 @@ They (and only them) can try to guess your word by sending a text message with a
 
 ## Usage
 
-/hangman [[player]] [[word]]`
+`/hangman [[player]] [[word]]`
 
 ## Cooldown
 

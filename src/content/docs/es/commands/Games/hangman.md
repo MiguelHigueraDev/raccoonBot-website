@@ -12,7 +12,7 @@ Ellos (y solo ellos) pueden intentar adivinar tu palabra enviando mensajes con u
 
 ## Usage
 
-/hangman [[jugador]] [[palabra]]`
+`/hangman [[jugador]] [[palabra]]`
 
 ## Tiempo de espera
 
